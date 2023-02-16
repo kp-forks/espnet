@@ -15,17 +15,6 @@ espnet.optimizer.chainer
     :show-inheritance:
 
 
-.. _espnet.optimizer.pytorch:
-
-espnet.optimizer.pytorch
-------------------------
-
-.. automodule:: espnet.optimizer.pytorch
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
 .. _espnet.optimizer.parser:
 
 espnet.optimizer.parser
@@ -54,6 +43,17 @@ espnet.optimizer.__init__
 -------------------------
 
 .. automodule:: espnet.optimizer.__init__
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet.optimizer.pytorch:
+
+espnet.optimizer.pytorch
+------------------------
+
+.. automodule:: espnet.optimizer.pytorch
     :members:
     :undoc-members:
     :show-inheritance:
